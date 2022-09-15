@@ -27,7 +27,7 @@ AutoML can also help organizations improve model accuracy and insights by reduci
 
 Machine learning automation lowers the requirements for entry to model development, allowing industries that were previously unable to leverage machine learning to do so. This creates opportunities for innovation and strengthens the competitiveness of markets, driving advancement.
 
-What Tasks Should You Automate?
+What Tasks can be Automated?
 --------------------------------
 
 While not everything in machine learning can be automated, many processes and steps that are iterative, especially in model training. These iterative steps are ideal for automation.
