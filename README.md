@@ -62,3 +62,10 @@ Transfer learning and pre-trained models
 In machine learning, transfer learning involves taking models that have already been trained on a similar data set and using it for your machine learning initiative. Generally, this model is used as a base and then further trained to match your exact needs.
 
 In terms of machine learning automation, this initial model can be trained in the same way as your end model while you are collecting or preparing datasets for the final model. This can save significant time, especially if you do not need a highly accurate model.
+
+
+About Me 
+--------------------------------------------------
+I am Pawan, an R programmer with over 6 years of experience in creating and delivering machine learning solutions in finance and healthcare.
+My research at REVA University focused on developing scalable and user-friendly machine learning applications. I have led numerous interdisciplinary teams and helped multiple organizations embrace machine learning.
+The growing demand for effective and accessible machine learning solutions across disciplines highlights the importance of this abstract topic. By automating and streamlining the end-to-end machine learning process, we can accelerate data-driven insights and empower decision-makers. This R Shiny-based platform makes complex ML techniques accessible even to non-coders.
